@@ -14,7 +14,7 @@ Welcome to the NASA Astronomy Picture of the Day (APOD) project! This React appl
 ## Features
 
 - Fetches the Astronomy Picture of the Day from NASA's API.
-- Displays the image or video with an accompanying explanation.
+- Displays the image with an accompanying explanation.
 - Responsive design for a seamless user experience.
 
 ## Technologies Used
@@ -30,5 +30,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/nasa-apod-project.git
-   cd nasa-apod-project
+   git clone https://github.com/Drsohayb/nasa-react-app.git
+   cd nasa-react-app
